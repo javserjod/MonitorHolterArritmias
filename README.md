@@ -1,3 +1,5 @@
+Descargar documento del proyecto: [monitor_holter_javserjod.pdf](https://github.com/user-attachments/files/20092336/monitor_holter_javserjod.pdf)
+
 Se trata de un SW desarrollado con el lenguaje de 
 programación C# en el entorno de desarrollo integrado Microsoft Visual Studio 2022, en 
 un ordenador con sistema operativo Windows 10. Permite detectar arritmias en tiempo 
