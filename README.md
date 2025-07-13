@@ -1,4 +1,4 @@
-Download project documentation (only available in Spanish): [monitor_holter_javserjod.pdf](https://github.com/user-attachments/files/20092336/monitor_holter_javserjod.pdf)
+Download project documentation and theoretical explanation (only available in Spanish): [monitor_holter_javserjod.pdf](https://github.com/user-attachments/files/20092336/monitor_holter_javserjod.pdf)
 
 This is a software application developed in the C# programming language using the Microsoft Visual Studio 2022 integrated development environment, running on a computer with the Windows 10 operating system. It allows real-time detection of arrhythmias, including both bradycardia (if the heart rate falls below 60 beats per minute, bpm) and tachycardia (if it exceeds 100 bpm). The curvature of a single ECG channel is displayed on the screen as it is built, mainly intended for Leads I, II, and III, based on the corresponding physiological signals (voltages) collected via three electrodes attached to a BITalino electrocardiographic sensor. This sensor is connected to an analog input of the BITalino Core board, which transmits the data to the PC via Bluetooth.
 
@@ -32,7 +32,7 @@ Within the software application, certain parameters can be adjusted through the 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Descargar documento del proyecto: [monitor_holter_javserjod.pdf](https://github.com/user-attachments/files/20092336/monitor_holter_javserjod.pdf)
+Descargar documento del proyecto y explicación teórica del contexto: [monitor_holter_javserjod.pdf](https://github.com/user-attachments/files/20092336/monitor_holter_javserjod.pdf)
 
 Se trata de un SW desarrollado con el lenguaje de 
 programación C# en el entorno de desarrollo integrado Microsoft Visual Studio 2022, en 
